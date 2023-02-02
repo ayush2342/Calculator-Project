@@ -43,6 +43,7 @@ function ShowResult()
 {
     result=eval(num1+" "+opeartor+" "+num2);
     screen.innerHTML=result;
+    num1=result;
     isNum1=true;
 }
 
