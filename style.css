@@ -17,6 +17,10 @@
 
 }
 
+.text-alighned{
+    text-align: end;
+}
+
 .numbersheight
 {
     padding-top: 10px;
